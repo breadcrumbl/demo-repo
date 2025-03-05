@@ -1,4 +1,4 @@
 # First Git Repo
 
-Hello future Izzy!
+Hello future me!
 Editing...
